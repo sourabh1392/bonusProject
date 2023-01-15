@@ -1,0 +1,22 @@
+{
+  "name": "bonusproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sourabh1392/bonusProject.git"
+  },
+  "author": "Sourabh Patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sourabh1392/bonusProject/issues"
+  },
+  "homepage": "https://github.com/sourabh1392/bonusProject#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
